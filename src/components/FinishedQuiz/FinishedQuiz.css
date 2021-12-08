@@ -14,3 +14,9 @@
 .FinishedQuiz ul li i {
     margin-left: 10px;
 }
+i.success {
+    color: rgba(161, 240, 69, .7);
+}
+i.error {
+    color: rgba(240, 87, 108, .7);
+}
